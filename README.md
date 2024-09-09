@@ -39,7 +39,7 @@ I am Satvik Jonnalagadda, a passionate Computer Science graduate student at the 
 
 ## 🔧 Skills
 
-- **Programming Languages:** Python, C
+- **Programming Languages:** Python, C, Java, R
 - **Tools & Libraries:** Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch
 - **Core Competencies:** AI, Machine Learning, Deep Learning, Computer Vision, Data Analysis, Problem Solving
 - **Soft Skills:** Creative Thinking, Strong Communication, Team Collaboration
