@@ -10,7 +10,7 @@ I am Satvik Jonnalagadda, a passionate Computer Science graduate student at the 
 
 - **Master of Science in Computer Science**  
   University at Buffalo, Buffalo, NY  
-  2023 - Present
+  2024 - Present
 
 - **Bachelor of Technology in Computer Science**  
   Bapatla Engineering College, Bapatla, A.P  
