@@ -21,7 +21,6 @@ I am Satvik Jonnalagadda, a passionate Computer Science graduate student at the 
 - **Software Developer Intern**  
   Shiash Info Solutions, Chennai, India  
   July 2023 - October 2023  
-  - Led a team in developing a Convolutional Neural Network (CNN) model for plant leaf disease detection and classification.
   - Managed project planning, timeline, and task allocation.
   - Conducted research, data preprocessing, model development, and performance analysis.
 
