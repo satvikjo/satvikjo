@@ -18,7 +18,7 @@ I am Satvik Jonnalagadda, a passionate Computer Science graduate student at the 
 
 ## 💼 Experience
 
-- **Software Developer Intern**  
+- **Full Stack Developer Intern**  
   Shiash Info Solutions, Chennai, India  
   July 2023 - October 2023  
   - Managed project planning, timeline, and task allocation.
