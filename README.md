@@ -29,14 +29,6 @@ I am Satvik Jonnalagadda, a passionate Computer Science graduate student at the 
   May 2022 - June 2022  
   - Developed and maintained web applications, ensuring optimal functionality and user experience.
 
-## 💡 Projects
-
-- **Plant Leaf Disease Recognition using Deep Learning models**  
-  Led a project that implemented a state-of-the-art Convolutional Neural Network for image classification tasks related to plant leaf diseases. The project involved data collection, preprocessing, model development, and optimization for enhanced accuracy.
-
-- **House Price Forecasting using Machine Learning Algorithms**  
-  Developed machine learning models for predicting house prices. Conducted Exploratory Data Analysis (EDA), feature engineering, and model validation to ensure robust and reliable predictions.
-
 ## 🔧 Skills
 
 - **Programming Languages:** Python, C, Java, R
