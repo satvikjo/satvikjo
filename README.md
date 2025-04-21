@@ -1,6 +1,6 @@
 # Satvik Jonnalagadda
 
-[LinkedIn Profile](https://www.linkedin.com/in/satvik-jonnalagadda-58a8501a0)
+[LinkedIn Profile](https://www.linkedin.com/in/satvik-jonnalagadda/)
 
 ## 👋 About Me
 
@@ -13,7 +13,7 @@ I am Satvik Jonnalagadda, a passionate Computer Science graduate student at the 
   2024 - Present
 
 - **Bachelor of Technology in Computer Science**  
-  Bapatla Engineering College, Bapatla, A.P  
+  Acharya Nagarjuna University, Guntur, A.P  
   Graduated in 2023 | GPA: 8.8
 
 ## 💼 Experience
@@ -21,18 +21,15 @@ I am Satvik Jonnalagadda, a passionate Computer Science graduate student at the 
 - **Full Stack Developer Intern**  
   Shiash Info Solutions, Chennai, India  
   July 2023 - October 2023  
-  - Managed project planning, timeline, and task allocation.
-  - Conducted research, data preprocessing, model development, and performance analysis.
 
 - **Web Developer Intern**  
   Exposys Data Labs, Bengaluru, India  
   May 2022 - June 2022  
-  - Developed and maintained web applications, ensuring optimal functionality and user experience.
 
 ## 🔧 Skills
 
 - **Programming Languages:** Python, C, Java, R
-- **Tools & Libraries:** Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch
+- **Tools & Libraries:** Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, XGBoost, NumPy, PyAudio, SpeechRecognition
 - **Core Competencies:** AI, Machine Learning, Deep Learning, Computer Vision, Data Analysis, Problem Solving
 - **Soft Skills:** Creative Thinking, Strong Communication, Team Collaboration
 
@@ -44,8 +41,6 @@ I am constantly learning and keeping up with the latest advancements in AI and M
 
 - Email: [satvik.jonnalagadda@gmail.com](mailto:satvik.jonnalagadda@gmail.com)
 - Phone: +1 716-486-4625
-- LinkedIn: [Satvik Jonnalagadda](https://www.linkedin.com/in/satvik-jonnalagadda-58a8501a0)
-
 ---
 
 Feel free to reach out if you'd like to collaborate on any AI, ML, or software development projects!
