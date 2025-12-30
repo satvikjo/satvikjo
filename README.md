@@ -1,79 +1,121 @@
 # Satvik Jonnalagadda
 
-[LinkedIn Profile](https://www.linkedin.com/in/satvik-jonnalagadda/) | [Portfolio](#) | [GitHub](#)
+**Software Engineer | AI Systems | Backend & ML Infrastructure**
 
-## 👋 About Me
-
-I am Satvik Jonnalagadda, a Software Engineer with a Master’s in Computer Science from the University at Buffalo. I specialize in full-stack development, cloud computing, and AI/ML applications. I’m passionate about building scalable, user-focused solutions, integrating AI into products, and contributing to innovative projects that solve real-world problems. I thrive in collaborative environments and enjoy taking ownership of challenging tasks from concept to deployment.
-
-## 🎓 Education
-
-- **Master of Science in Computer Science**  
-  University at Buffalo, Buffalo, NY | May 2025 | CGPA: 3.74/4.0
-
-- **Bachelor of Technology in Computer Science**  
-  Bapatla Engineering College, Bapatla, A.P | May 2023 | CGPA: 8.79/10.0
-
-## 💼 Experience
-
-- **Associate Software Engineer**  
-  Finstack Solutions Pvt Limited, Hyderabad, India | June 2022 - December 2023  
-  - Engineered and optimized full-stack web applications using Python, JavaScript, and REST APIs, improving system performance by 25%.  
-  - Contributed to code reviews, implemented data-efficient algorithms, and maintained 99.9% code reliability through CI/CD pipelines.  
-
-- **Graduate Research Assistant**  
-  University at Buffalo, Buffalo, NY | January 2025 – May 2025  
-  - Integrated and validated a novel recommendation algorithm, improving prediction accuracy by 15% for large-scale datasets.  
-  - Engineered data preprocessing pipelines for AI/ML model validation and development.  
-
-- **Web Developer Intern**  
-  Exposys Data Labs, Bengaluru, India | May 2022 - June 2022  
-  - Developed multi-page responsive web applications, handling front-end design, backend development, and database integration.  
-
-## 🛠 Technical Skills
-
-- **Programming Languages:** Python, JavaScript, Java, C, C++  
-- **Frameworks / Libraries:** React.js, Node.js, Express.js, Flask, Django, PyTorch, TensorFlow, OpenCV, Scikit-learn  
-- **Databases:** PostgreSQL, MongoDB, DynamoDB, MySQL  
-- **Tools & Platforms:** AWS, GCP, Docker, Kubernetes, CI/CD, Terraform, Git, OpenAI API, Amazon Bedrock  
-- **Core Competencies:** Full-Stack Development, Cloud Infrastructure, AI & ML, Computer Vision, Data Analysis, Problem Solving  
-- **Soft Skills:** Creative Thinking, Strong Communication, Team Collaboration, Product-Oriented Mindset  
-
-## 🌱 Projects
-
-- **Cloud Mart: E-commerce Platform** | AWS, Kubernetes, Terraform, Docker, CI/CD, OpenAI GPT-4o, Amazon Bedrock  
-  - Architected a scalable e-commerce platform with containerized deployment, AI-powered product recommendations, and automated CI/CD pipelines.  
-
-- **Maverick Health: Health Tracking Mobile App** | React Native, Node.js  
-  - Developed dynamic health scoring and visualization dashboards, providing actionable insights to users.  
-
-- **Doodle AI Desktop Assistant** | Python, OpenAI GPT-3.5, Tkinter  
-  - Built a voice-activated assistant with contextual memory, note and calendar management, and secure API integration.  
-
-- **Real-Time Collaborative Editor** | MERN Stack, WebSockets, JWT, MongoDB  
-  - Created a Google Docs-style editor supporting concurrent editing, live cursor tracking, and version control.  
-
-- **Drowsiness Detection System** | PyTorch, OpenCV, MTCNN, ResNet50  
-  - Designed a hybrid real-time system for driver state detection with 98.85% accuracy and ~15 FPS performance.  
-
-- **Cardamom Plant Disease Detection** | Python, U²-Net, ResNet152V2  
-  - Built a disease classification pipeline achieving 98.44% accuracy with saliency-based localization.  
-
-- **Cricket Match Insights: IPL Edition** | Express.js, PostgreSQL  
-  - Developed an analytics platform to explore 16+ seasons of IPL data with optimized queries and relational schema.  
-
-- **House Price Forecasting Web App** | Flask, Python, Linear Regression  
-  - Delivered an interactive house price prediction tool with automated preprocessing and EDA workflows.  
-
-## 🌐 Interests
-
-I am passionate about AI, Machine Learning, Computer Vision, and building innovative software products. I enjoy collaborative projects that challenge me to learn and push boundaries in full-stack and AI development.  
-
-## 📫 Contact
-
-- Email: [satvik.jonnalagadda@gmail.com](mailto:satvik.jonnalagadda@gmail.com)  
-- Phone: +1 716-486-4625  
+📍 Santa Clara, CA  
+📧 satvik.jonnalagadda@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/satvik-jonnalagadda  
 
 ---
 
-Feel free to **reach out if you’d like to collaborate on AI, ML, or full-stack projects!**
+## 👋 About Me
+
+I’m a **Software Engineer** passionate about building **reliable, data-efficient, and introspectable systems** at the intersection of backend engineering and machine learning.
+
+My work focuses on:
+- Designing clean, debuggable Python services  
+- Building ML-ready pipelines with strong observability  
+- Shipping production-grade systems with correctness and scalability in mind  
+
+I enjoy working on problems where **accuracy matters, data is limited, and systems must be auditable**.
+
+---
+
+## 👨‍💻 Professional Experience
+
+### **Software Engineer (Remote)**  
+**Community Dreams Foundation** | Aug 2025 – Present | Orlando, FL  
+
+- Developed and maintained **Python-based backend services and REST APIs** for community-driven web applications, improving engagement workflows by 20%.  
+- Built **containerized web services using Docker and AWS**, streamlining deployments and reducing downtime by 35%.  
+- Delivered **full-stack features using Flask and React**, ensuring accessible, responsive, and mobile-friendly interfaces.  
+- Implemented **role-based access control, PostgreSQL query optimizations, and caching**, improving data retrieval performance by 30%.  
+- Automated **CI/CD pipelines using GitHub Actions and Terraform**, enabling reproducible infrastructure and faster release cycles.  
+- Optimized database schemas and high-frequency endpoints to reduce response times under load.  
+- Participated in agile planning and sprint reviews, contributing to feature prioritization and technical improvements.
+
+---
+
+### **Associate Software Engineer**  
+**Finstack Solutions Pvt Ltd** | Jul 2022 – Dec 2023 | Hyderabad, India  
+
+- Designed and deployed **scalable full-stack web applications** using Python, JavaScript, Flask, and PostgreSQL.  
+- Developed and maintained **internal tools and REST APIs** to support operational automation and reporting workflows.  
+- Refactored legacy modules to improve **code quality, maintainability, and reliability**, reducing defect rates by 25%.  
+- Implemented monitoring and health checks for production systems using Docker and shell scripting to ensure high availability.  
+- Built reusable frontend components in React and backend logic in Flask, accelerating feature delivery cycles.  
+- Wrote **unit and integration tests using PyTest**, improving test coverage and release stability.  
+- Collaborated across teams on documentation and onboarding improvements for new engineers.
+
+---
+
+## 🧠 Technical Focus
+
+- Clean, testable, and introspectable backend systems  
+- Data-efficient algorithms and performance optimization  
+- ML pipelines with observability, metrics, and failure recovery  
+- Practical full-stack delivery with strong backend fundamentals  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, SQL, Bash, C++  
+**ML / AI:** PyTorch, Scikit-learn, Deep Learning, Predictive Modeling  
+**Backend & APIs:** Flask, FastAPI, REST, JWT, Postman  
+**Databases:** PostgreSQL  
+**Systems & Infra:** Docker, Kubernetes, GitHub Actions, Terraform, Prometheus, Jenkins  
+**Cloud:** AWS (EC2, S3, Lambda)  
+**Concepts:** Profiling, Debugging, Observability, Data Structures, Agile  
+
+---
+
+## 🚀 Selected Projects
+
+### **TraceFlow — Introspectable ML Pipeline Framework**  
+*Python, PyTorch, Docker, FastAPI, Prometheus*  
+
+- Built a **modular ML framework** with built-in training metrics, error hooks, and state recovery.  
+- Implemented observability hooks using **Prometheus and Grafana** for live training feedback.  
+- Designed inference APIs supporting **multi-model A/B testing**, served with Uvicorn and containerized for scaling.  
+- Achieved **21% training throughput improvement** via dataloader optimization and memory-aware batching.
+
+---
+
+### **SciNav — Workflow Navigator for Research Reproducibility**  
+*React, Flask, AWS S3*  
+
+- Developed a visual experiment tracker combining **natural-language notes with reproducible configurations**.  
+- Implemented autosave state machines to recover failed sessions and resume experiments seamlessly.  
+- Enabled multi-user synchronization using WebSockets and cloud-backed state storage.  
+
+---
+
+### **NeuroDock — Minimalist Python Container Profiler**  
+*Python, Docker, cProfile, PyTorch*  
+
+- Created a lightweight profiler to visualize **CPU and memory usage of Python ML services in containers**.  
+- Embedded call-graph analysis to identify performance bottlenecks, reducing inference latency by 17%.  
+- Designed a CLI to attach to live containers and stream performance telemetry in real time.  
+- Used internally to optimize multiple services and eliminate memory bloat under peak load.
+
+---
+
+## 🎓 Education
+
+**University at Buffalo, SUNY**  
+Master’s in Computer Science (AI & ML) | Jan 2024 – May 2025  
+
+**Bapatla Engineering College**  
+Bachelor of Technology in Computer Science | Aug 2019 – May 2023  
+
+---
+
+## 📌 What You’ll Find Here
+
+This GitHub contains:
+- Production-style backend systems  
+- ML pipelines with observability and profiling  
+- Experiments focused on correctness, performance, and reproducibility  
+
+Feel free to explore, fork, or reach out!
