@@ -30,27 +30,6 @@ I enjoy working on problems where **accuracy matters, data is limited, and syste
 **Finstack Solutions Pvt Ltd** | Jul 2022 – Dec 2023 | Hyderabad, India  
 ---
 
-## 🧠 Technical Focus
-
-- Clean, testable, and introspectable backend systems  
-- Data-efficient algorithms and performance optimization  
-- ML pipelines with observability, metrics, and failure recovery  
-- Practical full-stack delivery with strong backend fundamentals  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python, Java, SQL, Bash, C++  
-**ML / AI:** PyTorch, Scikit-learn, Deep Learning, Predictive Modeling  
-**Backend & APIs:** Flask, FastAPI, REST, JWT, Postman  
-**Databases:** PostgreSQL  
-**Systems & Infra:** Docker, Kubernetes, GitHub Actions, Terraform, Prometheus, Jenkins  
-**Cloud:** AWS (EC2, S3, Lambda)  
-**Concepts:** Profiling, Debugging, Observability, Data Structures, Agile  
-
----
-
 ## 🎓 Education
 
 **University at Buffalo, SUNY**  
