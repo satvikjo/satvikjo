@@ -2,7 +2,6 @@
 
 **Software Engineer | AI Systems | Backend & ML Infrastructure**
 
-📍 Santa Clara, CA  
 📧 satvik.jonnalagadda@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/satvik-jonnalagadda  
 
@@ -67,37 +66,6 @@ I enjoy working on problems where **accuracy matters, data is limited, and syste
 **Systems & Infra:** Docker, Kubernetes, GitHub Actions, Terraform, Prometheus, Jenkins  
 **Cloud:** AWS (EC2, S3, Lambda)  
 **Concepts:** Profiling, Debugging, Observability, Data Structures, Agile  
-
----
-
-## 🚀 Selected Projects
-
-### **TraceFlow — Introspectable ML Pipeline Framework**  
-*Python, PyTorch, Docker, FastAPI, Prometheus*  
-
-- Built a **modular ML framework** with built-in training metrics, error hooks, and state recovery.  
-- Implemented observability hooks using **Prometheus and Grafana** for live training feedback.  
-- Designed inference APIs supporting **multi-model A/B testing**, served with Uvicorn and containerized for scaling.  
-- Achieved **21% training throughput improvement** via dataloader optimization and memory-aware batching.
-
----
-
-### **SciNav — Workflow Navigator for Research Reproducibility**  
-*React, Flask, AWS S3*  
-
-- Developed a visual experiment tracker combining **natural-language notes with reproducible configurations**.  
-- Implemented autosave state machines to recover failed sessions and resume experiments seamlessly.  
-- Enabled multi-user synchronization using WebSockets and cloud-backed state storage.  
-
----
-
-### **NeuroDock — Minimalist Python Container Profiler**  
-*Python, Docker, cProfile, PyTorch*  
-
-- Created a lightweight profiler to visualize **CPU and memory usage of Python ML services in containers**.  
-- Embedded call-graph analysis to identify performance bottlenecks, reducing inference latency by 17%.  
-- Designed a CLI to attach to live containers and stream performance telemetry in real time.  
-- Used internally to optimize multiple services and eliminate memory bloat under peak load.
 
 ---
 
