@@ -24,28 +24,10 @@ I enjoy working on problems where **accuracy matters, data is limited, and syste
 
 ### **Software Engineer (Remote)**  
 **Community Dreams Foundation** | Aug 2025 – Present | Orlando, FL  
-
-- Developed and maintained **Python-based backend services and REST APIs** for community-driven web applications, improving engagement workflows by 20%.  
-- Built **containerized web services using Docker and AWS**, streamlining deployments and reducing downtime by 35%.  
-- Delivered **full-stack features using Flask and React**, ensuring accessible, responsive, and mobile-friendly interfaces.  
-- Implemented **role-based access control, PostgreSQL query optimizations, and caching**, improving data retrieval performance by 30%.  
-- Automated **CI/CD pipelines using GitHub Actions and Terraform**, enabling reproducible infrastructure and faster release cycles.  
-- Optimized database schemas and high-frequency endpoints to reduce response times under load.  
-- Participated in agile planning and sprint reviews, contributing to feature prioritization and technical improvements.
-
 ---
 
 ### **Associate Software Engineer**  
 **Finstack Solutions Pvt Ltd** | Jul 2022 – Dec 2023 | Hyderabad, India  
-
-- Designed and deployed **scalable full-stack web applications** using Python, JavaScript, Flask, and PostgreSQL.  
-- Developed and maintained **internal tools and REST APIs** to support operational automation and reporting workflows.  
-- Refactored legacy modules to improve **code quality, maintainability, and reliability**, reducing defect rates by 25%.  
-- Implemented monitoring and health checks for production systems using Docker and shell scripting to ensure high availability.  
-- Built reusable frontend components in React and backend logic in Flask, accelerating feature delivery cycles.  
-- Wrote **unit and integration tests using PyTest**, improving test coverage and release stability.  
-- Collaborated across teams on documentation and onboarding improvements for new engineers.
-
 ---
 
 ## 🧠 Technical Focus
