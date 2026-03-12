@@ -27,7 +27,7 @@ I enjoy working on problems where **accuracy matters, data is limited, and syste
 ---
 
 ### **Associate Software Engineer**  
-**Finstack Solutions Pvt Ltd** | Jul 2022 – Dec 2023 | Hyderabad, India  
+**Verizon** | Jul 2022 – Dec 2023 | Hyderabad, India  
 ---
 
 ## 🎓 Education
